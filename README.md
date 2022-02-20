@@ -12,6 +12,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/zwoong)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwoong&show_icons=true&theme=dark)
+
+<h3>Baekjun Tier Profile Card</h3>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zwoong">
