@@ -17,5 +17,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwoong&show_icons=true&theme=dark)
 
-<h3>Baekjun Tier Profile Card</h3>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zwoong">
