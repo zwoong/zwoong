@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/Express-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p><br>
 
-<br>
+<p align="center" display="flex">
 
 ![zwoong's github stats](https://github-readme-stats.vercel.app/api?username=zwoong&show_icons=true)
 [![zwoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zwoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/zwoong)
 
-
+</p>
 
