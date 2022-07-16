@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=zwoong's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<h3 align='center'>
 
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=zwoong's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <p align="center">
 반갑습니다👐<br>
@@ -8,7 +8,6 @@
 </p>
 
 <br>
-
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
     💡used as the main
@@ -26,4 +25,4 @@
 ![zwoong's github stats](https://github-readme-stats.vercel.app/api?username=zwoong&show_icons=true)
 [![zwoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zwoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/zwoong)
 
-
+</h3>
