@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/MongoDB%20SQL-F80000?style=flat&logo=MongoDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-003545?style=flat&logo=redis&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/MacOS-FCC624?style=flat&logo=MacOS&logoColor=white" />
 </div>
 <br>
 <div align=center>
