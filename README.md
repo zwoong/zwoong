@@ -1,6 +1,12 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=zwoong%20Github!&fontSize=90" />	
 </div>
+
+<div align=center>
+반갑습니다. 백엔드 개발자 최지웅입니다. 🙂
+
+</br>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -55,9 +61,4 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
 
-![Zwoong's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
