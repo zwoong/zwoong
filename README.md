@@ -21,6 +21,8 @@
 	<img src="https://img.shields.io/badge/MongoDB%20SQL-F80000?style=flat&logo=MongoDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-003545?style=flat&logo=redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/docker-FF0000?style=flat&logo=docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/linux-0F3545?style=flat&logo=linux&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -32,7 +34,6 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/jira-207346?style=flat&logo=jira&logoColor=white" />
-	<img src="https://img.shields.io/badge/docker-FF0000?style=flat&logo=docker&logoColor=white" />
 </div>
 <br>
 <div align=center>
