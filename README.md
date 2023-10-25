@@ -37,14 +37,11 @@
 </div>
 <br>
 <div align=center>
-	<h3>🎨 SNS & Portfolio 🎨</h3>
+	<h3>🎨 Contact me 🎨</h3>
 </div>
 <div align=center>
 	<a href="mailto:zwoong6867@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://serious-jacket-d34.notion.site/Study-with-me-978ad1be9a2a4daa83e34a1e0ed8e57b">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
