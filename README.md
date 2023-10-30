@@ -2,9 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=zwoong%20Github!&fontSize=90" />	
 </div>
 
-<div align=center>
-반갑습니다. 백엔드 개발자 최지웅입니다! 🙂
-
 </br>
 
 <div align=center>
