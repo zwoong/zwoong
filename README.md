@@ -52,9 +52,9 @@
   <h3>🐾 기타 🐾</h3>
   <p>🐈 Github 🦑</p>
   
-  ![zwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shpark0913&show_icons=true)
+  ![zwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwoong&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpark0913&layout=compact)](https://github.com/shpark0913/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpark0913&layout=compact)](https://github.com/zwoong/github-readme-stats)
 
   <p>🐈 Baekjoon 🦑</p>
   
