@@ -3,7 +3,7 @@
 ## Introduction 
 <br/>
 <p>🖥️ Backend Developer</p>
-<p>💯 <strong>데이터</strong>와 <strong>소통</strong>을 통해 문제를 해결하는 것을 즐기는 <strong> 개발자</strong>입니다.</p>
+<p>💯 <strong>데이터</strong>와 <strong>소통</strong>을 통해 문제해결을 즐기는 <strong> 개발자</strong>입니다.</p>
 <p>🙆‍♂️ 다양한 협업 툴로 협업을 즐기는 <strong>소통형 개발자</strong>입니다.</p>
 
 <br/>
