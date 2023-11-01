@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=zwoong's%20Github!&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Oops!%20I%20Did%20It%20Again&descAlign=60&descAlignY=50&stroke=c4b2ab)
 
-## Introduction <br/>
-
+## Introduction 
+<br/>
 <p>🖥️ Backend Developer</p>
 <p>💯 <strong>데이터</strong>와 <strong>소통</strong>을 통해 문제를 해결하는 <strong> 개발자</strong>입니다.</p>
 <p>🙆‍♂️ 다양한 협업 툴로 협업을 즐기는 <strong>소통형 개발자</strong>입니다.</p>
@@ -46,7 +46,6 @@
   <br/>
 
 </div>
-</br>
 
 <div align=left>
   <h3>🐾 기타 🐾</h3>
