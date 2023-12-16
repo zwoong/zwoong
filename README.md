@@ -6,7 +6,9 @@
 <p>🖥️ Backend Developer</p>
 <p>💯 <strong>데이터</strong>와 <strong>소통</strong>을 통해 문제해결을 즐기는 <strong> 개발자</strong>입니다.</p>
 <p>🙆‍♂️ 다양한 협업 툴로 협업을 즐기는 <strong>소통형 개발자</strong>입니다.</p>
-[네이버 바로가기](http://www.naver.com/)
+
+🌏 [zwoong's Blog](https://zwoong.github.io/) 🌏
+
 <br/>
 
 ## Tech Stack
