@@ -8,8 +8,8 @@
 ### ✨ Platforms & Languages ✨
   <div>
 	<img src="https://img.shields.io/badge/Node.js-007396?style=flat&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> 
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
     <br/>
     	<img src="https://img.shields.io/badge/MongoDB-F80000?style=flat&logo=MongoDB&logoColor=white" />
     	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
