@@ -1,7 +1,7 @@
 # Introduction
 ### 🖥️ Backend Developer
 <p>💯 <strong>데이터</strong>와 <strong>소통</strong>을 통해 문제해결을 즐기는 <strong> 개발자</strong>입니다.</p>
-<p>🙆‍♂️ 협업을 통한 아이디어 교류를 중시하며, 다양한 협업 툴로 협업을 즐기는 <strong>소통형 개발자</strong>입니다.</p>
+<p>🙆‍♂️ 협업을 통한 아이디어 교류를 중시하며, 활발한 의견 교류를 통해 개발팀 전체에 성장을 도모하는 <strong>개발자</strong>입니다.</p>
 <a href="https://zwoong.github.io/"><img src="https://img.shields.io/badge/zwoong's blog-lightblue?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://zwoong.github.io/"/></a>
 
 # Tech Stack
@@ -15,6 +15,7 @@
     	<img src="https://img.shields.io/badge/MongoDB-F80000?style=flat&logo=MongoDB&logoColor=white" />
     	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
     	<img src="https://img.shields.io/badge/Redis-003545?style=flat&logo=Redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
     <br/>
     	<img src="https://img.shields.io/badge/docker-2592E5?style=flat&logo=docker&logoColor=white" />
     	<img src="https://img.shields.io/badge/Linux-0F3545?style=flat&logo=linux&logoColor=white" />
