@@ -1,7 +1,7 @@
 # Introduction
 ### 🖥️ Backend Developer
 <p>💯 <strong>데이터</strong>와 <strong>소통</strong>을 통해 문제해결을 즐기는 <strong> 개발자</strong>입니다.</p>
-<p>🙆‍♂️ 협업을 통한 아이디어 교류를 중시하며, 활발한 의견 교류를 통해 개발팀 전체에 성장을 도모하는 <strong>개발자</strong>입니다.</p>
+<p>🙆‍♂️ 협업을 통한 아이디어 교류를 중시하며, 개발팀 전체에 성장을 도모하는 <strong>개발자</strong>입니다.</p>
 <a href="https://zwoong.github.io/"><img src="https://img.shields.io/badge/zwoong's blog-lightblue?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://zwoong.github.io/"/></a>
 
 # Tech Stack
