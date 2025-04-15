@@ -18,7 +18,6 @@
 
 ### 🗄 Database & Infra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
@@ -39,7 +38,7 @@
 
 - 📝 [블로그 바로가기](https://zwoong.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/zwoong/)
-- 📧 Email: zwoong.dev@gmail.com
+- 📧 Email: zwoong6867@gmail.com
 
 ---
 
