@@ -45,7 +45,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwoong&layout=compact&theme=default)](https://github.com/zwoong)
 
-## 🧠 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zwoong)](https://solved.ac/zwoong)
 
