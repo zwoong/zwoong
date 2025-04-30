@@ -24,7 +24,6 @@
 
 ### 🛠 Tools & Collaboration
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-333333?style=flat&logo=Mocha&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
