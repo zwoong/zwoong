@@ -37,10 +37,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/zwoong/)
 - 📧 Email: zwoong6867@gmail.com
 
----
-
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwoong&layout=compact&theme=default)](https://github.com/zwoong)
-
-
