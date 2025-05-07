@@ -34,6 +34,5 @@
 ## 📬 Contact
 
 - 📝 [블로그 바로가기](https://zwoong.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zwoong/)
 - 📧 Email: zwoong6867@gmail.com
 
